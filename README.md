@@ -8,7 +8,7 @@
 
 <header>
   <h1>부동산 데이터 수집 웹크롤링 프로젝트</h1>
-  <h3>프로젝트 기간 2023.11.27 ~ 2023.12.01 (총 5일)</h3>
+  <h2>프로젝트 기간 2023.11.27 ~ 2023.12.01 (총 5일)</h2>
 </header>
 
 <nav>
@@ -51,6 +51,7 @@
   <ul>
     <li><a href="Project01.ipynb">코드</a> - 데이터 수집을 위해서 만든 쥬피터 코드 파일 입니다.</li>
     <li><a href="Project Pandas.ipynb">시각화</a> - 데이터 수집 이후 시각화 자료를 만든 쥬피터 파일 입니다.</li>
+    <li><a href="프로젝트_보고서_박성훈.hwp">보고서</a> - 부동산 데이터 수집 웹크롤링 프로젝트 보고서 입니다.</li>
     <li><a href="서울시 아파트 상한가.xlsx">수집 데이터</a> - 수집한 데이터를 엑셀화 시켜서 정리해놓은 엑셀 파일 입니다.</li>
     <li><a href="https://github.com/shmi1234/Web-Crawling-Projects/tree/main/PPT%20%EB%B6%84%ED%95%A0%EC%95%95%EC%B6%95">PPT 분할압축<a>
       - PPT의 용량이 커서 PPT 분할압축 파일을 넣어둔 폴더 입니다.</li>

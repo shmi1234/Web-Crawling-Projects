@@ -44,7 +44,8 @@
     <li><a href="Project01.ipynb">Project01.ipynb</a> - 데이터 수집을 위해서 만든 코드 입니다.</li>
     <li><a href="Project Pandas.ipynb">Project Pandas.ipynb</a> - 데이터 수집 이후 시각화 자료를 만든 것 입니다.</li>
     <li><a href="서울시 아파트 상한가.xlsx">서울시 아파트 상한가.xlsx</a> - 수집한 데이터를 엑셀화 시켜서 정리해놓은 엑셀 파일 입니다.</li>
-    <li>PPT 분할압축 - PPT의 용량이 커서 PPT 분할압축 파일을 넣어둔 폴더 입니다.</li>
+    <li><a href="https://github.com/shmi1234/Web-Crawling-Projects/tree/main/PPT%20%EB%B6%84%ED%95%A0%EC%95%95%EC%B6%95">PPT 분할압축<a>
+      - PPT의 용량이 커서 PPT 분할압축 파일을 넣어둔 폴더 입니다.</li>
   </ul>
 </section>
 
